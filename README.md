@@ -1,5 +1,5 @@
 -  Olá! Eu sou o Matheus Freitas e estou a procura de algum estágio como desenvolvedor web.
-- 👀 Eu tenho interesse em: Html, CSS, Javascript, Python, MySQL.
+- 👀 Eu tenho interesse em: Html, CSS, Javascript, Python, Java & MySQL.
 - Eu estou aprendendo CSS avançado, Bootstrap e Javascript.
 - Eu quero colaborar em algum projeto, explorar os meus conhecimentos ao máximo, me lançar ao mercado de trabalho e contribuir para comunidade de desenvolvedores.
 
