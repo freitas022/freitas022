@@ -10,7 +10,7 @@
   Estudante de tecnologia desde 2020 e recém graduado no ano de 2023 em análise e desenvolvimento de sistemas, tenho como objetivo trabalhar como desenvolvedor back-end utilizando Java e Spring Boot. Sempre disposto a aprender estou em busca de experiência para poder por em prática todo conhecimento que adquiri ao longo desses anos, seja em um projeto legado ou de migração.
 </p>
 
-<div style="display: flex; flex-direction: row; width: 100%;">
+<div style="display: flex; flex-direction: row; justify-content:center; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitas022&layout=compact&theme=dark" />
   </a>
