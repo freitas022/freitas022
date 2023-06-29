@@ -1,4 +1,4 @@
-<div style="box-sizing: border-box;">
+<div style="box-sizing: border-box; width: 100%;">
   <h2 style="font-weight: 700; font-size: 24px; font-family: Verdana, sans-serif">
     Matheus Freitas, 22 anos, Rio de Janeiro - Brasil 👋
   </h2>
@@ -7,7 +7,7 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 <p style="font-weight: 400; font-size: 16px; font-family: Verdana, sans-serif;">
-  Estudante de tecnologia desde 2020 e recém graduado no ano de 2023 em análise e desenvolvimento de sistemas, tenho como objetivo trabalhar como desenvolvedor back-end utilizando Java e Spring Boot. Sempre disposto a aprender estou em busca de experiência para poder por em prática todo conhecimento que adquiri ao longo desses anos, seja em um projeto legado ou de migração.
+  Sou estudante de tecnologia desde 2020 e recentemente me formei em Análise e Desenvolvimento de Sistemas. Meu objetivo é trabalhar como desenvolvedor back-end, utilizando Java e Spring Boot. Estou sempre disposto a aprender e em busca de oportunidades para colocar em prática todo o conhecimento que adquiri ao longo desses anos, seja em projetos legados ou de migração.
 </p>
 
 <div style="display: flex; flex-direction: row; justify-content:center; width: 100%;">
