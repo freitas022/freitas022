@@ -9,7 +9,7 @@
 <p style="font-weight: 400; font-size: 16px; font-family: Verdana, sans-serif;">
   Sou estudante de tecnologia desde 2020 e recentemente me formei em Análise e Desenvolvimento de Sistemas. Meu objetivo é trabalhar como desenvolvedor back-end, utilizando Java e Spring Boot. Estou sempre disposto a aprender e em busca de oportunidades para colocar em prática todo o conhecimento que adquiri ao longo desses anos, seja em projetos legados ou de migração.
 </p>
-
+<br>
 <div style="display: flex; flex-direction: row; justify-content:center; width: 100%;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitas022&layout=compact&theme=dark" />
@@ -18,6 +18,7 @@
     <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=freitas022&show_icons=true&theme=dark" />
   </a>
 </div>
+<br>
 <div style="display: flex; flex-direction: column; width: 100%;">
   <h2 style="font-weight: 700; font-size: 24px; font-family: Verdana, sans-serif">
     Frontend Skills:
