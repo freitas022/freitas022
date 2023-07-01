@@ -1,4 +1,4 @@
-<div style="box-sizing: border-box; width: 100%;">
+<div align=center>
   <h2 style="font-weight: 700; font-size: 24px; font-family: Verdana, sans-serif">
     Matheus Freitas, 22 anos, Rio de Janeiro - Brasil 👋
   </h2>
