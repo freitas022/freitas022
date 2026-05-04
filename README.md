@@ -1,7 +1,7 @@
 
-## 👋 Bem-vindo ao meu perfil.
+## 👋 Matheus Freitas, desenvolvedor de software.
 
-  <p>Desenvolvedor Java/Kotlin desde setembro/2022</p>
+O meu core está no ecossistema Java/Spring, passando por persistência com bancos relacionais e não-relacionais, até deploy em contêineres na nuvem.
 
 ## 🛠️ TECH STACK:
 
@@ -14,16 +14,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+## 📚 Lendo sobre esses assuntos atualmente:
 
-## 📚 Estou me aprimorando nesses assuntos atualmente:
+* Design orientado a objetos
+* Arquitetura orientada da eventos
 
-* Arquitetura de microsserviços
-* React
-
-<br>
-
-<details>
-    <summary>Contato</summary><br>
+## Contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-freitas-0b27a8217/)
-</details>
